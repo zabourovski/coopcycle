@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "glim.coopcycle.config.ApplicationProperties",
+      "sourceType": "glim.coopcycle.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

@@ -1,0 +1,26 @@
+{
+  "glimApp": {
+    "association": {
+      "home": {
+        "title": "Associations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Създайте нов Association",
+        "createOrEditLabel": "Създайте или редактирайте Association",
+        "notFound": "Associations не са намерени"
+      },
+      "created": "Създаден е нов Association с идентификатор {{ param }}",
+      "updated": "Association с идентификатор {{ param }} e oбновен",
+      "deleted": "Association с идентификатор {{ param }} е изтрит",
+      "delete": {
+        "question": "Наистина ли искате да изтриете Association {{ id }}?"
+      },
+      "detail": {
+        "title": "Association"
+      },
+      "id": "ID",
+      "idAsso": "Id Asso",
+      "nomAsso": "Nom Asso",
+      "livreur": "Livreur"
+    }
+  }
+}

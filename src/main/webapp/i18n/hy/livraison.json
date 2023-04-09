@@ -1,0 +1,30 @@
+{
+  "glimApp": {
+    "livraison": {
+      "home": {
+        "title": "Livraisons",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ստեղծել նոր Livraison",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Livraison",
+        "notFound": "No Livraisons found"
+      },
+      "created": "Նոր Livraison ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Livraison թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Livraison հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Livraison {{ id }}?"
+      },
+      "detail": {
+        "title": "Livraison"
+      },
+      "id": "ID",
+      "idLivraison": "Id Livraison",
+      "prixLivraison": "Prix Livraison",
+      "duree": "Duree",
+      "adresseLivraison": "Adresse Livraison",
+      "client": "Client",
+      "produit": "Produit",
+      "livreur": "Livreur"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "glimApp": {
+    "association": {
+      "home": {
+        "title": "Associations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ստեղծել նոր Association",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Association",
+        "notFound": "No Associations found"
+      },
+      "created": "Նոր Association ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Association թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Association հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Association {{ id }}?"
+      },
+      "detail": {
+        "title": "Association"
+      },
+      "id": "ID",
+      "idAsso": "Id Asso",
+      "nomAsso": "Nom Asso",
+      "livreur": "Livreur"
+    }
+  }
+}
